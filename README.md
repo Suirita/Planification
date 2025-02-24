@@ -1,1 +1,1 @@
-[Slides](https://suirita.github.io/Deployment_workshop/)
+[Slides](https://suirita.github.io/Planification/)
