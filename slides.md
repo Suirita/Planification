@@ -1,7 +1,7 @@
 ## **Planification**
 
 - Presented by:
-  - SUIRITA Fahd
+  - SUIRITA Fahd 
 - Framed by:
   - ESSARRAJ Fouad
 
